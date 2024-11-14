@@ -1,1 +1,1 @@
-This Repo completely focuses on Networks laboratory
+UPLOADED ALL THE 10 EXPERIMENTS
